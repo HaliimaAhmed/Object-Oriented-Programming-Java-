@@ -1,6 +1,5 @@
 /* 
  * Name: Haliima Ahmed
- * Student ID:040825884
  * Course & Section: CST8132
  * Assignment: Lab 1
  * Date: September 20th, 2018 
