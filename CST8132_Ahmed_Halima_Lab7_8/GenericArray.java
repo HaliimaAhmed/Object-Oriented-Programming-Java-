@@ -1,14 +1,3 @@
-/* 
- * Name: Halima Ahmed
- * Student ID:040825884
- * Course & Section: CST8132_302
- * Assignment:Lab7/Lab8
- * Date: November 19th,2018
- * Updated on: December 8th,2018 
- */
-
-public class GenericArray<T> {
-
 	/***
 	 * The purpose of this class is to convert the given StringArray class into
 	 * Generic that will read through the Bank system
@@ -17,6 +6,8 @@ public class GenericArray<T> {
 	 * @version 1.0
 	 * @since 1.8
 	 */
+
+public class GenericArray<T> {
 
 	/** The current capacity of the array **/
 	private int capacity;
