@@ -1,10 +1,6 @@
 /* 
  * Name: Halima Ahmed
- * Student ID:
- * Course & Section: CST8132_302
- * Assignment: Lab 2
- * Date: September 20, 2018 
- */
+*/
 public class ExerciseTwo {
 	// instance varible for 2DArray
 	
