@@ -4,10 +4,6 @@ import java.util.Random;
 
 /* 
  * Name: Halima Ahmed
- * Student ID:040825884
- * Course & Section: CST8132_302
- * Assignment: Lab 5
- * Date: October 26, 2018  
  */
 public  class Computer extends Player {
 	
@@ -37,7 +33,7 @@ public boolean takeTurn() {
 
 			return true;
 }
-	// Question:What type of variable is this? What is the scope of this variable? Does it require Javadoc – why or why not?
+	// Question:What type of variable is this? What is the scope of this variable? Does it require Javadoc â€“ why or why not?
 	// Answer: its a boolean. In a boolean the that only takes true or false. Yes it does, since every non-private method requires a Javadoc
 
 }
