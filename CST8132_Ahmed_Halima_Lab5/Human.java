@@ -2,11 +2,7 @@ package rps;
 
 import java.util.Scanner;
 /* 
- * Name: Halima Ahmed
- * Student ID:040825884
- * Course & Section: CST8132_302
- * Assignment: Lab 5
- * Date: October 26, 2018  
+ * Name: Halima Ahmed  
  */
 
 public class Human extends Player {
@@ -34,7 +30,7 @@ public class Human extends Player {
 
 		do {
 
-			System.out.println(name + " it’s your turn (Enter R for Rock, P for Paper, S for Scissors, or Q to quit): ");
+			System.out.println(name + " itâ€™s your turn (Enter R for Rock, P for Paper, S for Scissors, or Q to quit): ");
 			
 			/**Converting string to upper case using the String method substring **/
 			String string1 = in.next();
@@ -61,7 +57,7 @@ public class Human extends Player {
 
 			default:
 				/**@return false exit **/
-				System.out.println(" Invalid input, please try again…");
+				System.out.println(" Invalid input, please try againâ€¦");
 				rps = false;
 
 				break;
