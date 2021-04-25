@@ -1,10 +1,6 @@
 package rps;
 /* 
  * Name: Halima Ahmed
- * Student ID:040825884
- * Course & Section: CST8132_302
- * Assignment: Lab 5
- * Date: October 26, 2018  
  */
 public interface Playable {
 	
